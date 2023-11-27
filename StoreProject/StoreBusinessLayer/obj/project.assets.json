@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessLayer/StoreBusinessLayer.csproj",
+      "projectUniqueName": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessLayer/StoreBusinessLayer.csproj",
       "projectName": "StoreBusinessLayer",
-      "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessLayer/StoreBusinessLayer.csproj",
+      "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessLayer/StoreBusinessLayer.csproj",
       "packagesPath": "/Users/sbeauvais/.nuget/packages/",
-      "outputPath": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessLayer/obj/",
+      "outputPath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sbeauvais/.nuget/NuGet/NuGet.Config"
@@ -70,11 +70,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj": {
-              "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj"
+            "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj": {
+              "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj"
             },
-            "/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/StoreDataAccessLayer.csproj": {
-              "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/StoreDataAccessLayer.csproj"
+            "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreDataAccessLayer/StoreDataAccessLayer.csproj": {
+              "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreDataAccessLayer/StoreDataAccessLayer.csproj"
             }
           }
         }

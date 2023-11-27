@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E6Ly9Qlp8FjRelTg6+Ox2mAYogvkSay5YEjwNOLBZyZlG1WSs+LTQd84QFgqwvy2k2rGes/XHcDsXvbhvJDYvw==",
+  "dgSpecHash": "QEKqKqVxtTLEw5Ge79WdFlyUnWHFiCi60q42hjs/VLcYm7LthcYQw23Zr7lr7dJmt0rlcOic/hk5cuR4XKyGTg==",
   "success": true,
-  "projectFilePath": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj",
+  "projectFilePath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

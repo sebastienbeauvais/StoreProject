@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj": {}
+    "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj": {}
   },
   "projects": {
-    "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj": {
+    "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj",
+        "projectUniqueName": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj",
         "projectName": "StoreBusinessObjectLayer",
-        "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj",
+        "projectPath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/StoreBusinessObjectLayer.csproj",
         "packagesPath": "/Users/sbeauvais/.nuget/packages/",
-        "outputPath": "/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/",
+        "outputPath": "/Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessObjectLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sbeauvais/.nuget/NuGet/NuGet.Config"

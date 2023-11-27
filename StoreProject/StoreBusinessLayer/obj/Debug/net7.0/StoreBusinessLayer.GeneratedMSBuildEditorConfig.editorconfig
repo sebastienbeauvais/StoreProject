@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StoreBusinessLayer
-build_property.ProjectDir = /Users/sbeauvais/Projects/StoreProject/StoreBusinessLayer/
+build_property.ProjectDir = /Users/sbeauvais/Projects/StoreProject/StoreProject/StoreBusinessLayer/
