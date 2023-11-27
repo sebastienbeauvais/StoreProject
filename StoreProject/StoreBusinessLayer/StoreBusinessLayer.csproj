@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StoreBusinessObjectLayer\StoreBusinessObjectLayer.csproj" />
+    <ProjectReference Include="..\StoreDataAccessLayer\StoreDataAccessLayer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="LogicServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="LogicServices\" />
+  </ItemGroup>
+</Project>

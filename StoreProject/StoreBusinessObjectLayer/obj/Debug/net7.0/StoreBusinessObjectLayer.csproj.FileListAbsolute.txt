@@ -1,0 +1,12 @@
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/bin/Debug/net7.0/StoreBusinessObjectLayer.deps.json
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/bin/Debug/net7.0/StoreBusinessObjectLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/bin/Debug/net7.0/StoreBusinessObjectLayer.pdb
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.csproj.AssemblyReference.cache
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.AssemblyInfoInputs.cache
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.AssemblyInfo.cs
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.csproj.CoreCompileInputs.cache
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/refint/StoreBusinessObjectLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/StoreBusinessObjectLayer.pdb
+/Users/sbeauvais/Projects/StoreProject/StoreBusinessObjectLayer/obj/Debug/net7.0/ref/StoreBusinessObjectLayer.dll

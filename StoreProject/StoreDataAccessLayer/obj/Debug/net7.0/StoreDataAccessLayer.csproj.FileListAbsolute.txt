@@ -1,0 +1,15 @@
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/bin/Debug/net7.0/StoreDataAccessLayer.deps.json
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/bin/Debug/net7.0/StoreDataAccessLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/bin/Debug/net7.0/StoreDataAccessLayer.pdb
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/bin/Debug/net7.0/StoreBusinessObjectLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/bin/Debug/net7.0/StoreBusinessObjectLayer.pdb
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.csproj.AssemblyReference.cache
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.AssemblyInfoInputs.cache
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.AssemblyInfo.cs
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.csproj.CopyComplete
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/refint/StoreDataAccessLayer.dll
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/StoreDataAccessLayer.pdb
+/Users/sbeauvais/Projects/StoreProject/StoreDataAccessLayer/obj/Debug/net7.0/ref/StoreDataAccessLayer.dll

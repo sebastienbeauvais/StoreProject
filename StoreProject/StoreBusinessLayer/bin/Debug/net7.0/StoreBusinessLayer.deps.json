@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StoreBusinessLayer/1.0.0": {
+        "dependencies": {
+          "StoreBusinessObjectLayer": "1.0.0",
+          "StoreDataAccessLayer": "1.0.0"
+        },
+        "runtime": {
+          "StoreBusinessLayer.dll": {}
+        }
+      },
+      "StoreBusinessObjectLayer/1.0.0": {
+        "runtime": {
+          "StoreBusinessObjectLayer.dll": {}
+        }
+      },
+      "StoreDataAccessLayer/1.0.0": {
+        "dependencies": {
+          "StoreBusinessObjectLayer": "1.0.0"
+        },
+        "runtime": {
+          "StoreDataAccessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreBusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreBusinessObjectLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreDataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
